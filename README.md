@@ -14,7 +14,8 @@ The platform is launching soon - stay tuned!
 ## 🛠 Tech Stack
 - **Languages:** Python, JavaScript, C, SQL  
 - **Frameworks & Tools:** React, Node.js, MongoDB, Git, Docker  
-- **AI & ML:** Machine Learning, RAG Pipelines, LLMs  
+- **AI & ML:** Machine Learning, RAG Pipelines, LLMs
+- **Automation:** n8n, Make
 
 ## 📫 Connect With Me
 - [LinkedIn](https://linkedin.com/in/eitam-mor-3922862a6)
