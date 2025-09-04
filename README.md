@@ -3,6 +3,9 @@
 ## 🚀 About Me
 I'm a CS & Entrepreneurship student at Reichman University (Honors Program)  
 Passionate about AI, automation, and building scalable platforms.  
+Currently, I'm developing a **cutting-edge restaurant discovery platform**,  
+aiming to revolutionize the way people find and experience dining.  
+The platform is launching soon - stay tuned!
 
 - 💻 Skilled in Python, Node.js, React, and Machine Learning  
 - 🤖 Experienced with AI-driven solutions and RAG pipelines  
