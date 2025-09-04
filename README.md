@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Eitam 👋
 
-<!--
-**eitammor/eitammor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a CS & Entrepreneurship student at Reichman University (Honors Program)  
+Passionate about AI, automation, and building scalable platforms.  
 
-Here are some ideas to get you started:
+- 💻 Skilled in Python, Node.js, React, and Machine Learning  
+- 🤖 Experienced with AI-driven solutions and RAG pipelines  
+- 🎯 Former national ballroom dancer — precision & performance under pressure  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, C, SQL  
+- **Frameworks & Tools:** React, Node.js, MongoDB, Git, Docker  
+- **AI & ML:** Machine Learning, RAG Pipelines, LLMs  
+
+## 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/eitam-mor-3922862a6)
+- [GitHub](https://github.com/eitammor)
+- Email: eitam.mor123@gmail.com
