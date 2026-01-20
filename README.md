@@ -8,13 +8,13 @@ aiming to revolutionize the way people find and experience dining.
 The platform is launching soon - stay tuned!
 
 - 💻 Skilled in Python, Node.js, React, and Machine Learning  
-- 🤖 Experienced with AI-driven solutions and RAG pipelines  
+- 🤖 Experienced with AI-driven solutions 
 - 🎯 Former national ballroom dancer — precision & performance under pressure  
 
 ## 🛠 Tech Stack
 - **Languages:** Python, JavaScript, C, SQL  
 - **Frameworks & Tools:** React, Node.js, MongoDB, Git, Docker  
-- **AI & ML:** Machine Learning, RAG Pipelines, LLMs
+- **AI & ML:** Machine Learning, LLMs
 - **Automation:** n8n, Make
 
 ## 📫 Connect With Me
