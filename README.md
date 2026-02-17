@@ -12,7 +12,7 @@ The platform is launching soon - stay tuned!
 - 🎯 Former national ballroom dancer — precision & performance under pressure  
 
 ## 🛠 Tech Stack
-- **Languages:** Python, JavaScript, C, SQL  
+- **Languages:** Python, JavaScript, C, SQL, Java
 - **Frameworks & Tools:** React, Node.js, MongoDB, Git, Docker  
 - **AI & ML:** Machine Learning, LLMs
 - **Automation:** n8n, Make
